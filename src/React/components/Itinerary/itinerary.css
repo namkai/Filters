@@ -1,0 +1,30 @@
+
+.itinerary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.journey {
+    padding: 50px;
+}
+
+.journey .journey-title {
+    font-size: 15px;
+}
+
+.station {
+    font-size: 20px;
+}
+
+.title {
+    margin: 0 0 5px;
+    padding: 0;
+    font-weight: normal;
+    border-bottom: 1px solid black;
+}
+
+.mode .title {
+    padding-top: 15px;
+}
+

@@ -1,0 +1,1 @@
+export const getItinerares = state => state.itineraries;
